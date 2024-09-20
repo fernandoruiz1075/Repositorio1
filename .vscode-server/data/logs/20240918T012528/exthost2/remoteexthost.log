@@ -1,0 +1,46 @@
+2024-09-18 01:27:55.611 [info] Extension host with pid 3001 started
+2024-09-18 01:27:55.611 [error] Error: EEXIST: file already exists, open '/home/ec2-user/.vscode-server/data/User/workspaceStorage/db31ba997216474c36ff9e14015eaca0/vscode.lock'
+2024-09-18 01:27:55.645 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/db31ba997216474c36ff9e14015eaca0/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-09-18 01:27:55.655 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/db31ba997216474c36ff9e14015eaca0/vscode.lock': The pid 3246 appears to be gone.
+2024-09-18 01:27:55.655 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/db31ba997216474c36ff9e14015eaca0/vscode.lock': Deleting a stale lock.
+2024-09-18 01:27:55.660 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/db31ba997216474c36ff9e14015eaca0/vscode.lock': Lock acquired.
+2024-09-18 01:27:56.478 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-18 01:27:56.479 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-09-18 01:27:56.481 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-09-18 01:27:57.456 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-09-18 01:27:57.477 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-09-18 01:27:57.755 [info] Eager extensions activated
+2024-09-18 01:27:57.755 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-18 01:27:57.755 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-18 01:30:13.174 [error] Error: connect ETIMEDOUT 20.189.173.3:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-18 01:32:26.293 [error] Error: connect ETIMEDOUT 52.168.117.171:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-18 02:00:22.613 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-09-18 02:00:28.483 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-09-18 02:00:28.484 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-09-18 02:00:28.484 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-09-18 04:29:44.453 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-09-18 04:29:45.236 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-09-18 04:29:46.026 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-09-18 04:31:58.775 [error] Error: connect ETIMEDOUT 20.42.73.24:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-18 04:34:11.893 [error] Error: connect ETIMEDOUT 52.168.117.175:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-18 04:34:11.894 [error] Error: connect ETIMEDOUT 20.42.73.30:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-18 04:36:25.013 [error] Error: connect ETIMEDOUT 20.50.80.209:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-18 04:38:48.373 [error] Error: connect ETIMEDOUT 52.182.143.215:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-18 04:41:01.493 [error] Error: connect ETIMEDOUT 20.42.65.94:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-18 05:02:31.734 [error] Error: connect ETIMEDOUT 20.189.173.17:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-18 05:04:44.853 [error] Error: connect ETIMEDOUT 52.182.143.214:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-18 05:32:54.454 [error] Error: connect ETIMEDOUT 51.132.193.104:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-18 05:33:57.305 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-09-18 05:33:57.307 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/db31ba997216474c36ff9e14015eaca0/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-09-18 05:33:57.403 [info] Extension host with pid 3001 exiting with code 0

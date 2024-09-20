@@ -1,0 +1,18 @@
+h1 {text-align: center;
+    font-size: 40px;
+}
+form {text-align: Center;
+}
+body {
+    background-color: blue;
+}
+form {
+    font-size: 20px;
+}
+button {
+    font-size: 20px;
+    color: rgb(255, 0, 0);
+    background-color: beige;
+    border-radius: 10px;
+    padding: 7px;
+}

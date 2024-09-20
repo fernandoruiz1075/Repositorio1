@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "window.zoomLevel": 1,
+    "workbench.editor.enablePreview": false,
+    "files.autoSave": "afterDelay",
+    "remote.SSH.remotePlatform": {
+        "Fernando": "linux"
+    }
+}

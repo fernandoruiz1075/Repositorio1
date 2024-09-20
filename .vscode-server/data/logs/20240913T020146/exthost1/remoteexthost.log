@@ -1,0 +1,13 @@
+2024-09-13 02:01:50.140 [info] Extension host with pid 3337 started
+2024-09-13 02:01:51.381 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-09-13 02:01:51.382 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-13 02:01:51.382 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-13 02:01:51.382 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-13 02:01:51.382 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-13 02:01:51.916 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-09-13 02:01:51.916 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-09-13 02:01:52.492 [info] Eager extensions activated
+2024-09-13 02:01:52.493 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-13 02:01:52.493 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-13 02:02:28.885 [info] Extension host terminating: received terminate message from renderer
+2024-09-13 02:02:28.914 [info] Extension host with pid 3337 exiting with code 0

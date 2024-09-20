@@ -1,0 +1,3 @@
+2024-09-18 22:58:24.807 [error] node #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST connect ETIMEDOUT 20.50.73.9:443
+2024-09-18 22:58:24.807 [error] node #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET connect ETIMEDOUT 152.199.4.33:443
+2024-09-18 23:00:37.926 [error] node #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST connect ETIMEDOUT 52.168.117.175:443

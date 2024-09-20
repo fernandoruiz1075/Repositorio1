@@ -1,0 +1,44 @@
+2024-09-14 16:24:54.310 [info] Extension host with pid 11828 started
+2024-09-14 16:24:54.311 [error] Error: EEXIST: file already exists, open '/home/ec2-user/.vscode-server/data/User/workspaceStorage/db31ba997216474c36ff9e14015eaca0/vscode.lock'
+2024-09-14 16:24:54.336 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/db31ba997216474c36ff9e14015eaca0/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-09-14 16:24:54.346 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/db31ba997216474c36ff9e14015eaca0/vscode.lock': The lock does not look stale, elapsed: 585 ms, giving up.
+2024-09-14 16:24:54.350 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/db31ba997216474c36ff9e14015eaca0-1/vscode.lock': Lock acquired.
+2024-09-14 16:24:56.052 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-09-14 16:24:56.053 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-09-14 16:24:56.790 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-09-14 16:24:56.790 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-09-14 16:24:58.138 [info] Eager extensions activated
+2024-09-14 16:24:58.139 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-14 16:24:58.139 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-14 16:25:06.664 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-09-14 16:25:12.892 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-09-14 16:25:12.893 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-09-14 16:25:12.893 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-09-14 16:25:12.894 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-14 16:27:13.320 [error] Error: connect ETIMEDOUT 20.189.173.27:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-14 16:29:26.439 [error] Error: connect ETIMEDOUT 51.104.15.252:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-14 16:30:37.586 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-09-14 16:40:19.287 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-09-14 16:40:25.497 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-09-14 16:42:40.039 [error] Error: connect ETIMEDOUT 20.189.173.28:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-14 16:44:53.159 [error] Error: connect ETIMEDOUT 20.189.173.25:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-14 16:44:53.159 [error] Error: connect ETIMEDOUT 13.69.116.104:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-14 16:47:06.279 [error] Error: connect ETIMEDOUT 13.89.179.9:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-14 16:49:29.639 [error] Error: connect ETIMEDOUT 13.89.179.13:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-14 16:51:42.760 [error] Error: connect ETIMEDOUT 13.78.111.198:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-14 17:13:07.879 [error] Error: connect ETIMEDOUT 20.50.80.214:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-14 17:15:20.999 [error] Error: connect ETIMEDOUT 104.46.162.227:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-14 17:43:30.599 [error] Error: connect ETIMEDOUT 51.105.71.136:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
+2024-09-14 17:45:43.719 [error] Error: connect ETIMEDOUT 20.189.173.27:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1606:16)
