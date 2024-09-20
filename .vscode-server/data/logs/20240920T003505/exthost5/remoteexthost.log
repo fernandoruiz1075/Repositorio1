@@ -13,3 +13,6 @@
 2024-09-20 00:42:58.366 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
 2024-09-20 00:42:58.367 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
 2024-09-20 01:05:07.685 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-20 02:03:23.278 [info] Extension host terminating: received terminate message from renderer
+2024-09-20 02:03:23.279 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/db31ba997216474c36ff9e14015eaca0/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-09-20 02:03:23.339 [info] Extension host with pid 3403 exiting with code 0

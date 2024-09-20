@@ -46,3 +46,26 @@ sudo yum install git
 sudo yum -y install git
 sudo pip install pymysql
 pip install pymysql git
+sudo python database/db.py
+git --version
+sudo yum -y install git
+git --version
+git ini
+git init
+git add server.py
+git status
+git add .gitignore
+git status
+git init
+git add .
+git status
+git commit .m version1
+git commit -m version1
+git status
+git commit -version2
+git add .
+git commit -version3
+git log
+git add .
+git commit -m version2
+git log
