@@ -1,0 +1,13 @@
+.cache/
+.local/
+.ssh/
+.vscode-server/
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.wget-hsts
+.git
+_pycache_
+.lesshst
+_server.py
